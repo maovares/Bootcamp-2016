@@ -1,2 +1,2 @@
 # Bootcamp-2016
-AngularJS by Growth Acceleration Partners
+AngularJS by Growth Aceleration Partners
